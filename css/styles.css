@@ -1,0 +1,12 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image:url(/image/slider.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
+.navbar-toggler-icon{
+    background-color: rgb(231, 43, 43);
+}
